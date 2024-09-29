@@ -1,0 +1,14 @@
+C:\Users\Legion\source\repos\Transfer\Transfer\bin\Debug\net8.0\Transfer.exe
+C:\Users\Legion\source\repos\Transfer\Transfer\bin\Debug\net8.0\Transfer.deps.json
+C:\Users\Legion\source\repos\Transfer\Transfer\bin\Debug\net8.0\Transfer.runtimeconfig.json
+C:\Users\Legion\source\repos\Transfer\Transfer\bin\Debug\net8.0\Transfer.dll
+C:\Users\Legion\source\repos\Transfer\Transfer\bin\Debug\net8.0\Transfer.pdb
+C:\Users\Legion\source\repos\Transfer\Transfer\obj\Debug\net8.0\Transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Transfer\Transfer\obj\Debug\net8.0\Transfer.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Transfer\Transfer\obj\Debug\net8.0\Transfer.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Transfer\Transfer\obj\Debug\net8.0\Transfer.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Transfer\Transfer\obj\Debug\net8.0\Transfer.dll
+C:\Users\Legion\source\repos\Transfer\Transfer\obj\Debug\net8.0\refint\Transfer.dll
+C:\Users\Legion\source\repos\Transfer\Transfer\obj\Debug\net8.0\Transfer.pdb
+C:\Users\Legion\source\repos\Transfer\Transfer\obj\Debug\net8.0\Transfer.genruntimeconfig.cache
+C:\Users\Legion\source\repos\Transfer\Transfer\obj\Debug\net8.0\ref\Transfer.dll
